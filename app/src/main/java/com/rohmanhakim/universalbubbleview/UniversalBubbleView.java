@@ -14,7 +14,6 @@ import android.widget.LinearLayout;
 public class UniversalBubbleView extends View {
 
     Context context;
-    UniversalBubbleView universalBubbleView;
 
     public UniversalBubbleView(Context context) {
         super(context);
